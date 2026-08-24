@@ -7,7 +7,7 @@ Actualmente busco oportunidades como Data Analyst / Business Analyst, donde pued
 🔭 Trabajando en proyectos de análisis y visualización de datos
 🌱 Profundizando en SQL avanzado y automatización con Python
 💬 Pregúntame sobre limpieza de datos, EDA, SQL o dashboards en Tableau/Power BI
-📫 Cómo contactarme: LinkedIn · tu-email@ejemplo.com
+📫 Cómo contactarme: .www.linkedin.com/in/janira-sanchez-latorre-  · janira9345@gmail.com
 🛠️ Stack tecnológico
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/BeautifulSoup-4A4A4A?style=flat-square&logo=python&logoColor=white" /> </p>
 📊 Proyectos destacados
