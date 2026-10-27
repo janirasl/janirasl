@@ -1,26 +1,61 @@
-🧭 Sobre mí
+Hola, soy Janira 👋
+Data Analyst · Python · SQL · Power BI
 
-Soy analista de datos con formación en Adalab, especializada en convertir datos crudos en historias e insights accionables. Me muevo cómoda en todo el ciclo de un proyecto de análisis: extracción y limpieza de datos, modelado en SQL, análisis con Python y comunicación de resultados a través de dashboards.
+Convierto datos en decisiones. Vengo de gestionar la barra de tres restaurantes con un equipo de 12 personas, y de ahí traigo lo que no enseña ningún curso: entender cómo funciona un negocio por dentro y qué números importan de verdad. Ahora lo combino con el análisis de datos, tras formarme en el bootcamp de Data Analytics & AI de Adalab y en Marketing Digital y E-commerce en EAE Business School.
 
-Actualmente busco oportunidades como Data Analyst / Business Analyst, donde pueda seguir creciendo en un equipo que use los datos para tomar mejores decisiones.
+Busco mi primera oportunidad como Data Analyst / BI Analyst / People Analytics en Alicante o en remoto.
 
-🔭 Trabajando en proyectos de análisis y visualización de datos
-🌱 Profundizando en SQL avanzado y automatización con Python
-💬 Pregúntame sobre limpieza de datos, EDA, SQL o dashboards en Tableau/Power BI
-📫 Cómo contactarme: .www.linkedin.com/in/janira-sanchez-latorre-  · janira9345@gmail.com
-🛠️ Stack tecnológico
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" /> <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/BeautifulSoup-4A4A4A?style=flat-square&logo=python&logoColor=white" /> </p>
+LinkedIn Email
+
 📊 Proyectos destacados
-www.hitrivi.com
-🌍 Trivi — hitrivi.com Revista de viajes personalizada: en vez de elegir destino por geografía, lo eliges por cómo quieres sentirte. Itinerarios curados, guías editoriales y ediciones mensuales generadas según el estado de ánimo del usuario, con captura de leads y motor de recomendación propios. Next.js React FastAPI Vercel — producto propio en producción · código privado
+🎯 Job Hunter AI · proyecto individual
 
-Festival Data Beats · Millennial Insights Proyecto de consultoría de datos para una promotora de festivales: identificación de artistas españoles con mayor potencial para un cartel dirigido a la generación millennial, usando datos de Last.fm y otras fuentes. Python Pandas BeautifulSoup SQLAlchemy SQL — scraping, base de datos normalizada en SQL, análisis y presentación final de resultados. Proyecto en equipo, junto a Fabiola, Dácil, Natalia y Rocío.
+Pipeline que automatiza mi propia búsqueda de empleo. Cada mañana capta ofertas de tres APIs (Adzuna, Himalayas y Google for Jobs), las filtra según nivel, ubicación y modalidad, las puntúa de 0 a 100 según encaje con mi perfil, elimina duplicados entre fuentes y guarda las nuevas en Notion. Todo lo captado queda registrado en un CSV que alimentará un dashboard en Power BI.
 
-Limpieza y análisis exploratorio de datos Limpieza, unión y transformación de datasets con Pandas y NumPy: tratamiento de nulos, estadística descriptiva, agrupaciones y EDA aplicado a datos reales. Python Pandas NumPy Proyecto en pareja con Ana.
+Empezó como un flujo en n8n y lo migré a Python cuando el flujo se quedó corto.
 
-Dashboard de precios y salud alimentaria Análisis y dashboard en Tableau sobre precios y salud alimentaria, combinando varias fuentes de datos en un storytelling visual. Tableau EDA Data Storytelling Proyecto en equipo (Team 4).
+Python GitHub Actions APIs REST Notion API pytest ETL
 
-SQL avanzado Consultas SQL avanzadas: subconsultas, joins complejos y funciones de ventana sobre bases de datos relacionales. SQL Proyecto en pareja con Lorena.
+🏠 Rentabilidad del alquiler en San Vicente del Raspeig · proyecto individual, en curso
 
-📈 Actividad en GitHub
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=janirasl&show_icons=true&theme=default&hide_border=true&count_private=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?
+¿Qué estrategia de alquiler maximiza la rentabilidad de un piso en San Vicente del Raspeig: residencial, por habitaciones para estudiantes, turístico o mixto? Datos de Idealista, Fotocasa, Airbnb, Booking, el registro de viviendas turísticas y la bolsa de alojamiento de la Universidad de Alicante, con limpieza y deduplicación entre portales en Python y análisis comparativo de rentabilidad neta y ROI.
+
+Python Pandas Limpieza de datos EDA Análisis financiero
+
+🎵 Festival Data Beats · Millennial Insights · proyecto en equipo (Adalab)
+
+Consultoría de datos para una promotora de festivales: qué artistas españoles tienen más potencial para un cartel dirigido a millennials. Scraping de Last.fm y otras fuentes, base de datos normalizada en SQL, análisis y presentación de resultados.
+
+Python BeautifulSoup SQLAlchemy SQL Pandas
+
+🥗 Precios y salud alimentaria · proyecto en equipo (Adalab)
+
+Dashboard en Tableau que cruza varias fuentes de datos sobre precios y salud alimentaria y las convierte en una historia visual.
+
+Tableau EDA Data Storytelling
+
+🧹 Limpieza y análisis exploratorio · proyecto en pareja (Adalab)
+
+Limpieza, unión y transformación de datasets reales: tratamiento de nulos, estadística descriptiva, agrupaciones y EDA.
+
+Python Pandas NumPy
+
+🗃️ SQL avanzado · proyecto en pareja (Adalab)
+
+Subconsultas, joins complejos y funciones de ventana sobre bases de datos relacionales.
+
+SQL MySQL
+
+🛠️ Stack
+Área	Herramientas
+Análisis y programación	Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+Bases de datos	Mostrar imagen Mostrar imagen
+Visualización	Mostrar imagen Mostrar imagen
+Datos y automatización	Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+Control de versiones	Mostrar imagen Mostrar imagen
+🌱 Ahora mismo
+Construyendo el dashboard de Power BI de Job Hunter AI.
+Terminando el análisis de rentabilidad del alquiler en San Vicente del Raspeig.
+Profundizando en SQL avanzado y en automatización con Python.
+
+<sub>También desarrollo Trivi, una revista de viajes que recomienda destinos según cómo quieres sentirte (Next.js, React, FastAPI). Producto propio en producción, código privado.</sub>
