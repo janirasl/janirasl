@@ -1,61 +1,81 @@
-Hola, soy Janira 👋
-Data Analyst · Python · SQL · Power BI
+Readme · MD
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:4F46E5,100:06B6D4&text=Janira%20S%C3%A1nchez%20Latorre&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%C2%B7%20Python%20%C2%B7%20SQL%20%C2%B7%20Power%20BI&descAlignY=60&descSize=18" width="100%" alt="Janira Sánchez Latorre · Data Analyst" /> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=4F46E5&center=true&vCenter=true&width=620&lines=Convierto+datos+en+decisiones+%F0%9F%93%8A;Automatizo+lo+repetitivo+con+Python+%E2%9A%99%EF%B8%8F;Construyo+productos+con+datos+reales+%F0%9F%9A%80" alt="Convierto datos en decisiones" />
 
-Convierto datos en decisiones. Vengo de gestionar la barra de tres restaurantes con un equipo de 12 personas, y de ahí traigo lo que no enseña ningún curso: entender cómo funciona un negocio por dentro y qué números importan de verdad. Ahora lo combino con el análisis de datos, tras formarme en el bootcamp de Data Analytics & AI de Adalab y en Marketing Digital y E-commerce en EAE Business School.
+LinkedIn Email Disponible
 
-Busco mi primera oportunidad como Data Analyst / BI Analyst / People Analytics en Alicante o en remoto.
+</div>
+👩‍💻 Sobre mí
 
-LinkedIn Email
+Vengo de gestionar la barra de tres restaurantes con un equipo de 12 personas. De ahí traigo lo que no enseña ningún curso: entender un negocio por dentro y saber qué números importan de verdad. Hoy lo combino con el análisis de datos, tras formarme en el bootcamp de Data Analytics & AI de Adalab y en Marketing Digital y E-commerce en EAE Business School.
 
-📊 Proyectos destacados
-🎯 Job Hunter AI · proyecto individual
+No me quedo en el notebook: me gusta llevar los datos hasta un producto que funciona, ya sea un pipeline que se ejecuta solo cada mañana o una web en producción.
 
-Pipeline que automatiza mi propia búsqueda de empleo. Cada mañana capta ofertas de tres APIs (Adzuna, Himalayas y Google for Jobs), las filtra según nivel, ubicación y modalidad, las puntúa de 0 a 100 según encaje con mi perfil, elimina duplicados entre fuentes y guarda las nuevas en Notion. Todo lo captado queda registrado en un CSV que alimentará un dashboard en Power BI.
+🎯 Busco mi primera oportunidad como Data Analyst · BI Analyst · People Analytics
 
-Empezó como un flujo en n8n y lo migré a Python cuando el flujo se quedó corto.
+🚀 Productos propios en producción
+<table> <tr> <td width="50%" valign="top">
+🌍 Trivi
+
+Revista de viajes que elige destino según cómo quieres sentirte.
+
+Itinerarios curados, guías editoriales y una «editora» conversacional que recomienda destinos según el estado de ánimo, con captura de leads y motor de recomendación propios.
+
+Ver Trivi
+
+Next.js React FastAPI Vercel
+
+</td> <td width="50%" valign="top">
+📡 Radar Local
+
+Plataforma propia de datos pensada para inmobiliarias.
+
+Producto en desarrollo para ayudar a las agencias inmobiliarias a tomar decisiones con datos del mercado local.
+
+Ver Radar Local
+
+Python Render
+
+</td> </tr> </table>
+📊 Proyectos de datos
+🎯 Job Hunter AI  ·  individual
+
+Pipeline que automatiza mi propia búsqueda de empleo. Cada mañana capta ofertas de 3 APIs (Adzuna, Himalayas y Google for Jobs), las filtra por nivel, ubicación y modalidad, las puntúa de 0 a 100 según encaje con mi perfil, elimina duplicados entre fuentes y guarda las nuevas en Notion. Empezó como un flujo en n8n y lo migré a Python cuando se quedó corto.
 
 Python GitHub Actions APIs REST Notion API pytest ETL
 
-🏠 Rentabilidad del alquiler en San Vicente del Raspeig · proyecto individual, en curso
+🏠 Rentabilidad del alquiler en San Vicente del Raspeig  ·  individual, en curso
 
-¿Qué estrategia de alquiler maximiza la rentabilidad de un piso en San Vicente del Raspeig: residencial, por habitaciones para estudiantes, turístico o mixto? Datos de Idealista, Fotocasa, Airbnb, Booking, el registro de viviendas turísticas y la bolsa de alojamiento de la Universidad de Alicante, con limpieza y deduplicación entre portales en Python y análisis comparativo de rentabilidad neta y ROI.
+¿Qué estrategia maximiza la rentabilidad de un piso: alquiler residencial, por habitaciones para estudiantes, turístico o mixto? Datos de Idealista, Fotocasa, Airbnb, Booking, el registro de viviendas turísticas y la bolsa de alojamiento de la Universidad de Alicante, con limpieza y deduplicación entre portales, y comparación de rentabilidad neta y ROI.
 
 Python Pandas Limpieza de datos EDA Análisis financiero
 
-🎵 Festival Data Beats · Millennial Insights · proyecto en equipo (Adalab)
+🎵 Festival Data Beats · Millennial Insights  ·  en equipo (Adalab)
 
-Consultoría de datos para una promotora de festivales: qué artistas españoles tienen más potencial para un cartel dirigido a millennials. Scraping de Last.fm y otras fuentes, base de datos normalizada en SQL, análisis y presentación de resultados.
+Consultoría para una promotora de festivales: qué artistas españoles tienen más potencial para un cartel dirigido a millennials. Scraping de Last.fm, base de datos normalizada en SQL y presentación de resultados.
 
 Python BeautifulSoup SQLAlchemy SQL Pandas
 
-🥗 Precios y salud alimentaria · proyecto en equipo (Adalab)
+<details> <summary><b>Más proyectos de Adalab</b></summary> <br>
 
-Dashboard en Tableau que cruza varias fuentes de datos sobre precios y salud alimentaria y las convierte en una historia visual.
+🥗 Precios y salud alimentaria · en equipo — Dashboard en Tableau que cruza varias fuentes y las convierte en una historia visual. Tableau EDA Data Storytelling
 
-Tableau EDA Data Storytelling
+🧹 Limpieza y análisis exploratorio · en pareja — Tratamiento de nulos, uniones, estadística descriptiva y EDA sobre datasets reales. Python Pandas NumPy
 
-🧹 Limpieza y análisis exploratorio · proyecto en pareja (Adalab)
+🗃️ SQL avanzado · en pareja — Subconsultas, joins complejos y funciones de ventana. SQL MySQL
 
-Limpieza, unión y transformación de datasets reales: tratamiento de nulos, estadística descriptiva, agrupaciones y EDA.
-
-Python Pandas NumPy
-
-🗃️ SQL avanzado · proyecto en pareja (Adalab)
-
-Subconsultas, joins complejos y funciones de ventana sobre bases de datos relacionales.
-
-SQL MySQL
-
+</details>
 🛠️ Stack
-Área	Herramientas
-Análisis y programación	Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
-Bases de datos	Mostrar imagen Mostrar imagen
-Visualización	Mostrar imagen Mostrar imagen
-Datos y automatización	Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
-Control de versiones	Mostrar imagen Mostrar imagen
-🌱 Ahora mismo
-Construyendo el dashboard de Power BI de Job Hunter AI.
-Terminando el análisis de rentabilidad del alquiler en San Vicente del Raspeig.
-Profundizando en SQL avanzado y en automatización con Python.
+<div align="center">
 
-<sub>También desarrollo Trivi, una revista de viajes que recomienda destinos según cómo quieres sentirte (Next.js, React, FastAPI). Producto propio en producción, código privado.</sub>
+Análisis y programación<br> Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+Bases de datos y visualización<br> Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+Automatización y producto<br> Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen Mostrar imagen
+
+</div>
+🌱 Ahora mismo
+📈 Construyendo el dashboard de Power BI de Job Hunter AI
+🏠 Terminando el análisis de rentabilidad del alquiler
+🧠 Profundizando en SQL avanzado y automatización con Python
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:4F46E5,100:06B6D4&section=footer" width="100%" alt="" /> </div>
